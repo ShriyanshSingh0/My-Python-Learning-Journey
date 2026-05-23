@@ -1,33 +1,110 @@
-- ## Variables
-#### A Variable is the name given to a memory location in a program.
-### Examples-   
-```python 
+# Variables and Data Types
+
+## Variables
+
+A Variable is the name given to a memory location in a program.
+
+### Examples
+
+```python
 name = "Shriyansh"
 age = 14
-is_learning_python = true
+is_learning_python = True
 ```
-#### Here, "name, age, is_learning_python" are variables
 
-### <u>Following are some rules for setting a variable name:</u> -
-- #### A variable name can contain alphabets, digits, and underscores.
-- #### A variable name can only start with an alphabet and underscores.
-- #### A variable name can’t start with a digit.
-- #### No white space is allowed to be used inside a variable name.
+Here, `name`, `age`, and `is_learning_python` are variables.
 
-### Examples -
-- #### name, _name, name1, age2, _name1 can be assigned as variable names.
-- #### 1name, n@me, 23 cannot be assigned as variable names.
+---
 
-- ## Data Types
-### There are following Data Types in python:
-#### 1. Integers
-#### 2. Floating point numbers
-#### 3. Strings
-#### 4. Booleans
-#### 5. None
+### Rules for Naming Variables
 
-- #### Integers are non-decimal Number values. Eg- 4, 5, 234
-- #### Floating point numbers are decimal number values. Eg- 4.45, 3.14, 0.5
-- #### Strings are letters, words, sentences enclosed by ('') or (""). Eg- 'Hello World'
-- #### Booleans are True or False datatypes. Eg- True, False
-- #### None is neither True or False it returns a None value. Eg- None
+- A variable name can contain alphabets, digits, and underscores.
+- A variable name can only start with an alphabet or underscore.
+- A variable name cannot start with a digit.
+- No whitespace is allowed inside a variable name.
+
+### Valid Variable Names
+
+```python
+name
+_name
+name1
+age2
+_name1
+```
+
+### Invalid Variable Names
+
+```python
+1name
+n@me
+23
+```
+
+---
+
+## Data Types
+
+There are mainly 5 data types in Python:
+
+1. Integers
+2. Floating Point Numbers
+3. Strings
+4. Booleans
+5. None
+
+### Integers
+
+Integers are non-decimal number values.
+
+Example:
+
+```python
+4
+5
+234
+```
+
+### Floating Point Numbers
+
+Floating point numbers are decimal values.
+
+Example:
+
+```python
+4.45
+3.14
+0.5
+```
+
+### Strings
+
+Strings are letters, words, or sentences enclosed in quotes.
+
+Example:
+
+```python
+"Hello World"
+'Python'
+```
+
+### Booleans
+
+Booleans represent `True` or `False`.
+
+Example:
+
+```python
+True
+False
+```
+
+### None
+
+`None` represents the absence of a value.
+
+Example:
+
+```python
+None
+```
