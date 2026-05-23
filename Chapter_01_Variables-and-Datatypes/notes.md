@@ -108,3 +108,32 @@ Example:
 ```python
 None
 ```
+## Operators in Python
+
+Following are some common operators in python:
+
+1. Arithmetic operators: +, -, *, / etc.
+2. Assignment operators: =, +=, -= etc.
+3. Comparison operators: ==, >, >=, <, != etc.
+4. Logical operators: and, or, not.
+
+## type() function and Typecasting
+
+type() function is used to find the data type of a given variable in python.
+### Example-
+```python
+a = 31
+type(a) # class <int>
+b = "31"
+type(b) # class <str>
+```
+A number can be converted into a string and vice versa (if possible)
+There are many functions to convert one data type into another.
+### Example-
+```python
+str(31) # integer to string conversion
+int("32") # string to integer conversion
+float(32) # integer to float conversion
+```
+... and so on.
+Here "31" is a string literal and 31 a numeric literal.
