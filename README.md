@@ -3,4 +3,12 @@
 
 <img width="1536" height="1024" alt="ChatGPT Image May 17, 2026, 03_46_24 PM" src="https://github.com/user-attachments/assets/1eecfa44-a412-4aac-893f-824016e3b742" />
 
-### Guided by [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww) Ultimate Python Cource
+### Learning Basics Through [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww) Ultimate Python Cource
+
+## Completed Topics
+-
+
+## Goals
+- Learn DSA
+- Solve LeetCode
+- Build Projects
